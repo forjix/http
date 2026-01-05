@@ -96,4 +96,4 @@ class AuthMiddleware implements MiddlewareInterface
 
 ## License
 
-MIT
+GPL-3.0
